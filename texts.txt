@@ -1,0 +1,7 @@
+1	hello
+2	hello
+3	world you know
+4	like you
+5	love
+6	hate
+7	same
